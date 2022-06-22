@@ -14,5 +14,5 @@ Skills: REACT / JS / HTML / CSS
 - 😄 Pronouns: he/him 
 
 
-[<center><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='color:lightblue;'>](https://github.com/ya-ser)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='color:lightblue;'>](https://www.linkedin.com/in/ya-ibrahim/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg' alt='about-dot-me' height='40' style='color:lightblue;'>](https://resume.creddle.io/resume/im7474wjn1l)
+[<center><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='color:blue;'>](https://github.com/ya-ser)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' style='color:lightblue;'>](https://www.linkedin.com/in/ya-ibrahim/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg' alt='about-dot-me' height='40' style='color:lightblue;'>](https://resume.creddle.io/resume/im7474wjn1l)
 </center>
