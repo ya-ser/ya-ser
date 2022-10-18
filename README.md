@@ -1,6 +1,8 @@
 ### Hi there 👋, my name is Yaser
 #### I am a Full Stack Web Developer
-![I am a Full Stack Web Developer](https://thumbs.dreamstime.com/b/web-development-concept-web-site-coding-full-stack-programing-web-security-usability-platform-testing-web-developer-209521403.jpg)
+![I am a Full Stack Web Developer](https://dvokhk8ohqhd8.cloudfront.net/assets/engineering_types/full_stack/hero_image-6d2af04d8ff26b2334e0f866b3e3671b8c5e32fca0f4883c2e6a35248e36d77d.svg)
+
+Checkout my project [Leviathan](https://leviathan-833fd.web.app/signup), a project manager that focuses on student collaboration! For more information, checkout my readme [here](https://github.com/ya-ser/leviathan).
 
 Toronto based full stack web developer with a strong understanding in UX/UI design principles. I really enjoy learning languages and frameworks like React and React Native, as well as learn to code in Typescript. I also enjoy wireframing, ui, ux, and design in general.
 
